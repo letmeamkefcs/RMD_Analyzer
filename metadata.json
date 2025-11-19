@@ -1,0 +1,5 @@
+{
+  "name": "Map Color Ratio Analyzer",
+  "description": "Precise pixel-level color analysis tool for map images. Categorizes pixels into Warm (Red/Yellow/Orange), Dark Green, Blue, Neon Green, and Grey groups, filtering out specific backgrounds and borders.",
+  "requestFramePermissions": []
+}
